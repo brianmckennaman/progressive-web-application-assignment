@@ -1,0 +1,35 @@
+{
+  "name": "progressive-web-application-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "",
+    "start": "",
+    "server": "",
+    "build": "",
+    "install": "",
+    "client": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmckennaman/progressive-web-application-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianmckennaman/progressive-web-application-assignment/issues"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+
+  "homepage": "https://github.com/brianmckennaman/progressive-web-application-assignment#readme"
+}
